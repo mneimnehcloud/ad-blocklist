@@ -18,6 +18,7 @@ live.chartboost.com
 api.tapjoy.com
 init.supersonicads.com
 ws.tapjoyads.com
+datarouter.ol.epicgames.com
 ads.nexage.com
 ads.rubiconproject.com
 ads.yahoo.com
