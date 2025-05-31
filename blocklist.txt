@@ -25,3 +25,4 @@ ads.yahoo.com
 z.moatads.com
 cdn.appsflyer.com
 track.appsflyer.com
+api.epicgames.dev
